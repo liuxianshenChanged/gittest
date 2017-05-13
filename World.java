@@ -13,6 +13,9 @@ public class HelloWorld {
          
            System.out.println("ceshigit");
          System.out.println("gitceshi");
+         
+           System.out.println("disiciceshigit");
+         System.out.println("likong");
         
     }
  
