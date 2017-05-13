@@ -7,11 +7,12 @@ public class HelloWorld {
          System.out.println("Hello");
         System.out.println("-------------------------------------------");
         
-          System.out.println("-------------------------------------------");
-            System.out.println("-------------------------------------------");
-              System.out.println("-------------------------------------------");
+          
           System.out.println("likongdisanci");
          System.out.println("likongokkkkkk");
+         
+           System.out.println("ceshigit");
+         System.out.println("gitceshi");
         
     }
  
